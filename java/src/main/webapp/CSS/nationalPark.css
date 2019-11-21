@@ -1,0 +1,102 @@
+img {
+	width: auto;
+	height: 400px;
+}
+
+* {
+	font-family: sans-serif;
+}
+.background {
+	background-color: #e0e0e0;
+}
+nav {
+	background-color: #3d3d3d;
+	height: 50px;
+}
+nav ul {
+	padding-top: 17px;
+}
+nav li  {
+	list-style: none;
+	display: inline;
+	padding: 10px;
+	background-color:#27b026;
+	border-radius: 10px;
+	margin-top: 10px;
+	
+}
+nav li a {
+	color: white;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.parkcontent {
+	vertical-align: top;
+	padding-left: 20px;
+}
+#parkimg {
+	width: 100%;
+	object-fit: cover;
+}
+.parktitle {
+	font-size: 35px;
+	font-weight: bold;
+}
+.quote {
+	width: 40%;
+}
+.parkdataleft {
+	padding-right: 400px;
+}
+.weatherimg {
+	width: 100%;
+	height: auto;
+}
+
+.forecast {
+	display: inline;
+
+}
+.day {
+	margin: 5px;
+	width: 18%;
+	heigth: 800px;
+	display: inline;
+	float: left;
+	box-shadow: -1px 0 2px 0 rgba(0,0,0,0.12),1px 0 2px 0 rgba(0,0,0,0.12),0 1px 1px 0 rgba(0,0,0,0.24);
+	border-top: 1px solid #5c5c5c;
+	background-color: white;
+}
+#logo {
+	width: 100%;
+	height: auto;
+}
+
+footer {
+	margin-top: 100px;
+	align-items: bottom;
+}
+.parktile {
+	box-shadow: -1px 0 2px 0 rgba(0,0,0,0.12),1px 0 2px 0 rgba(0,0,0,0.12),0 1px 1px 0 rgba(0,0,0,0.24);
+	border-top: 3px solid #000;
+	
+}
+.parktile:hover {
+	
+}
+#description {
+	font-family: courier;
+}
+.weatherdata {
+	align-items: center;
+}
+
+
+
+
+
+
+
